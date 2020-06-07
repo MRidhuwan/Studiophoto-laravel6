@@ -1,0 +1,25 @@
+html,
+body {
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* CSS Variables */
+
+:root {
+    --primary-color: #fb4d46;
+    --primary-color2: #f24b4c;
+    --title-color: #141313;
+    --text-color: #777777;
+    --border-color: #201f1f17;
+    --gradient-color: linear-gradient(90deg, #f24b4c 0%, #fb4d46 100%);
+    --shadow-color: 0px 10px 30px rgb(242, 75, 76);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+
+
+    /* font family variables. */
+    --nixmat: 'Nixmat', cursive;
+}
